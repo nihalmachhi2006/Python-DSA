@@ -38,3 +38,24 @@ print(type(c))
 print(type(d))
 print(type(e))
 print(type(f))
+
+# newname = 10
+# Newname = 20
+
+# print(newname)
+# print(Newname) 
+# python code are case-sensitive
+
+# a = b = c = 100
+# print(a, b, c)
+
+# x, y, z = 1, 2.5, "Python"
+# print(x, y, z)
+
+# a, b = 5, 10
+# a, b = b, a
+# print(a, b)
+
+word = "Python for ai/ml"
+length = len(word)
+print("Length of the word:", length)
